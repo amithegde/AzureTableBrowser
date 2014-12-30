@@ -15,3 +15,5 @@ Highlights
 
 Partial user interface:
 ![](https://raw.githubusercontent.com/amithegde/AzureTableBrowser/master/img/main-interface.jpg)
+
+It is a windows forms application written in c# and points to .Net  Framework 4.5.
