@@ -1,2 +1,0 @@
-AzureTableBrowser - Help
-========================

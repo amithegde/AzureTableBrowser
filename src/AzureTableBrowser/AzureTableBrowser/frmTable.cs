@@ -466,7 +466,7 @@ Additional Notes:
 
         private void linkLabelMoreHelp_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("https://github.com/amithegde/AzureTableBrowser/blob/master/help.md");
+            Process.Start("https://github.com/amithegde/AzureTableBrowser/wiki");
         }
     }
 }
