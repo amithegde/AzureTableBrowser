@@ -12,6 +12,6 @@ Highlights
 - Fast and goes easy on memory
 - Export result to CSV
 
-Main UI
--------
-[![](https://raw.githubusercontent.com/amithegde/AzureTableBrowser/master/img/main-interface.jpg)]
+
+Partial user interface:
+![](https://raw.githubusercontent.com/amithegde/AzureTableBrowser/master/img/main-interface.jpg)
