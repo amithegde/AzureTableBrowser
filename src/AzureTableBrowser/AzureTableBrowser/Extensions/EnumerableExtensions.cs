@@ -130,9 +130,7 @@ namespace AzureTableBrowser.Extensions
                 }
                 list.Add(dynamicObject);
             }
-
-            dynamicTableEntities = null; //kill it to call GC fast
-
+			
             return list;
         }
     }
