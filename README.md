@@ -16,8 +16,9 @@ Highlights
 Partial user interface:
 ![](https://raw.githubusercontent.com/amithegde/AzureTableBrowser/master/img/main-interface.jpg)
 
-It is a windows forms application written in c# and points to .Net  Framework 4.5. Download and extract Binaries.zip file to start using the tool.
+It is a windows forms application written in c# and points to .Net  Framework 4.5. Download and extract [Binaries.zip][1] file to start using the tool.
 
-Feel free to fork and use the code as you like. Start with [wiki][1] if you need more info.
+Feel free to fork and use the code as you like. Start with [wiki][2] if you need more info.
 
-[1]:https://github.com/amithegde/AzureTableBrowser/wiki
+[1]:https://github.com/amithegde/AzureTableBrowser/raw/master/Binaries.zip
+[2]:https://github.com/amithegde/AzureTableBrowser/wiki
